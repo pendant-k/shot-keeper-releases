@@ -2,7 +2,8 @@
 
 > **Tame your desktop chaos instantly.**
 
-![ShotKeeper Banner](/feature_1.mp4)
+# Shot Keeper Demo
+https://github.com/pendant-k/shot-keeper-releases/raw/main/feature_1.mp4
 
 **ShotKeeper** is a macOS utility that automatically detects new screenshots and helps you instantly organize them into folders. Say goodbye to a cluttered desktop.
 
